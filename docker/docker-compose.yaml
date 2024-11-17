@@ -7,7 +7,4 @@ services:
       dockerfile: Dockerfile
     volumes:
       - ./..:/var/www/html
-    # environment:
-    #   PHP_MEMORY_LIMIT: 512M
-    #   PHP_UPLOAD_MAX_FILESIZE: 50M
-    #   PHP_POST_MAX_SIZE: 50M
+      

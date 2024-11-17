@@ -12,5 +12,3 @@ RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local
 
 # Set working directory
 WORKDIR /var/www/html
-
-# RUN composer install
