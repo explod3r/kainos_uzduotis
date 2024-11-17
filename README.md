@@ -28,8 +28,8 @@ OR
 1. Clone the repository:
 
     ```bash
-    git clone <repository_url>
-    cd <project_directory/docker>
+    git clone git@github.com:explod3r/kainos_uzduotis.git
+    cd kainos_uzduotis/docker
     ```
 
 2. Install dependencies:
